@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "noImplicitAny": false /* Prevent implicit conversion to any */,
+    "sourceMap": false /* Exposes ts files in debugger tools*/,
+    "strictNullChecks": true,
+    "noEmitOnError": true,
+    "noUnusedParameters": true
+  },
+  "exclude": ["node_modules"]
+}
