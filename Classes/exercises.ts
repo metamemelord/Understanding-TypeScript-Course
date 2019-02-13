@@ -1,3 +1,4 @@
+/*
 // Exercise 1
 function Car(name) {
     this.name = name;
@@ -54,3 +55,4 @@ person.firstName = "Ma";
 console.log(person.firstName);
 person.firstName = "Maximilian";
 console.log(person.firstName);
+*/
